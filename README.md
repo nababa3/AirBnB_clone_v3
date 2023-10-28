@@ -6,8 +6,7 @@
 The AirBnB Clone is a web application that aims to replicate the core functionality of the popular online accommodation marketplace, Airbnb. This project seeks to provide a platform where hosts can list their properties for rent, and travelers can search and book accommodations based on their preferences. The AirBnB Clone will enable users to explore various properties, view details, make reservations, and manage their bookings.
 
 ## Authors
-`Hamza Abdullahi` <hamzaabdullahiyawa@protonmail.com>
-`Farouq Folawiyo` <folawiyofarouq@gmail.com>
+`Nababa Abdulrahmon` <nababaabdulrahmon57@gmail.com>
 
 ## License
 
